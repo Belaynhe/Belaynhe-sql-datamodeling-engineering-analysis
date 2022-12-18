@@ -1,1 +1,1 @@
-# https-github.com-Belaynhe-sql-datamodeling-engineering-analysis
+Belaynhe-sql-datamodeling-engineering-analysis
